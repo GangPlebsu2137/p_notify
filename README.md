@@ -2,10 +2,10 @@
 DOCS: https://plebsu-shop.gitbook.io/
 
 # What is the source, title, message, type?
--Source (You have to add the source in server side.)
--Title (This is the notify Title, Enter a custom text here, e.g. 'Notify')
--Message (You have to add the notify message here.)
--Type [ error / info / success ]
+- Source (You have to add the source in server side.)
+- Title (This is the notify Title, Enter a custom text here, e.g. 'Notify')
+- Message (You have to add the notify message here.)
+- Type [ error / info / success ]
 
 ## Trigger from ``Server side``
 ```
